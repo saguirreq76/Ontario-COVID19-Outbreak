@@ -1,6 +1,6 @@
 # Ontario Covid 19 Outbreak
 
-This project was made with the intention of seeing and taking a look closely to what was happening with the cases for Covid-19 in the Ontario area. What Public Healt Units (PHU) were the most affected and with more outbreaks. Also it was included the different groups and subgroups that are mentioned in the dataset as an approach to be able to see what categories fall into the most affected.
+The objective of this project was to closely examine the Covid-19 cases in the Ontario area, with a focus on identifying the Public Health Units (PHUs) that were most impacted and had the highest number of outbreaks. The project also included an analysis of the various groups and subgroups mentioned in the dataset to determine which categories were most affected.
 
 Python was chose as the technology to be used in order to manipulate and visualize the information in a proper manner with all the packages and libraries necessaries for this project.
 
